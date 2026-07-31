@@ -1,0 +1,2 @@
+# notes-fastapi
+fastapi project
